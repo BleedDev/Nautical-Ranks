@@ -31,8 +31,16 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | YouTube|  |
 | Twitch|  |
 | Player|  |
-
-
+| Legend|  |
+| Navigator|  |
+| Moderator|  |
+| Media|  |
+| Mariner|  |
+| Head|  |
+| Deckhand|  |
+| Commandor|  |
+| Captain|  |
+| Pharaoah|  |
 
 
 ![Logo](https://i.ibb.co/0rtTQ20/minecraft-title-1.png)
